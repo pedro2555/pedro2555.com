@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="background: url($ThemeDir/img/bg.jpg)  no-repeat center center fixed">
     <head>
         <% base_tag %>
         <title>$SiteConfig.Title - <% if $MetaTitle %>$MetaTitle<% else %>$Title<% end_if %></title>
